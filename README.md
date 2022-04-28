@@ -1,6 +1,6 @@
 # Scraping with Selenium
 
-Será un script en python  que nos ofrece datos de la pagina web: eltiempo.es. 
+Será un script en python  que nos ofrece datos de la pagina web: eltiempo.es 
 
 ### Pre-requisitos 📋
 
